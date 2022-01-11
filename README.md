@@ -4,8 +4,8 @@
 ### Purpose
 The purpose of this project it's to, under the easiest and faster way, found the "ticker" with the higher return by the end of two years: 2017 and 2018.
 
-##Results
-###Analysis Results
+## Results
+### Analysis Results
 As we can see in the next two images, 2017 was a very good year for most tickers with an exception for the "TERP" ticker who gets a -7.21% return. In the other hand we can see that for 2017, was a great year for "DQ" ticker, being the one with the higher return over all (Perhaps that's why Steve's parents want to know the DQ's return for 2018).But, by the end of 2018, the ticker gets a negative return (-62.6%).
 
 
@@ -14,7 +14,7 @@ As we can see in the next two images, 2017 was a very good year for most tickers
 
 In 2018 the return was very bad, over 80% of tickers gets a negative return by the end of the year. Only the "ENPH" and "RUN" tickers gets a positive return. "ENHP" decrease his procentage in 47.6% and still gets an 81.92% return. For "RUN" was a great year, getting an increase of 78.4% by the end of 2018.
 
-###Script Results
+### Script Results
 The first script built gets the results we want, but it's slighty slow, the reason of this is because: what the script does is "look for the values in the array, calculate the conditions and print the results for each ticker" this script does not store the values calculated, that's why all of them needs to be printed after the calculations.
 
 ![image](https://user-images.githubusercontent.com/96214489/148880908-4b92fdfb-d100-4511-9fdd-05b992352a0f.png)
@@ -43,7 +43,7 @@ By doing this little changes, makes the macro more flexible in case tha data cha
 
 ![image](https://user-images.githubusercontent.com/96214489/148883886-7b6144fb-ff11-4e65-a115-20390a19ef6d.png)
 
-##Summary
+## Summary
 
 - What are the advantages or disadvantages of refactoring code?
 In my point of view, there is no disadvantage when refactoring a code, if this is going to be refactored it's because will be improved. 
