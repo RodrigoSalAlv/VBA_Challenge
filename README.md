@@ -46,10 +46,12 @@ By doing this little changes, makes the macro more flexible in case tha data cha
 ## Summary
 
 - What are the advantages or disadvantages of refactoring code?
+
 In my point of view, there is no disadvantage when refactoring a code, if this is going to be refactored it's because will be improved. 
 Speaking of advantages, this can be many more: the time of excecuting the macro could be less, the code could be easier to read, the lines of code could be less. It's always good to improve something.
 
--How do these pros and cons apply to refactoring the original VBA script?
+- How do these pros and cons apply to refactoring the original VBA script?
+
 In this case there is no cons by the moment of refactoring, the executing time drastically improved and the results were the same. But, as I mention, the macro is unflexible by accepting more data. But wiht another "refactoring" this get fixed.
 
 
