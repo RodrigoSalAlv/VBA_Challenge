@@ -8,9 +8,7 @@ The purpose of this project it's to, under the easiest and faster way, found the
 ### Analysis Results
 As we can see in the next two images, 2017 was a very good year for most tickers with an exception for the "TERP" ticker who gets a -7.21% return. In the other hand we can see that for 2017, was a great year for "DQ" ticker, being the one with the higher return over all (Perhaps that's why Steve's parents want to know the DQ's return for 2018).But, by the end of 2018, the ticker gets a negative return (-62.6%).
 
-
-![image](https://user-images.githubusercontent.com/96214489/148877844-6d717769-26a2-445e-aa69-47a001e9060b.png)
-![image](https://user-images.githubusercontent.com/96214489/148877906-8acc95dd-2a28-46a3-a7b2-e16d99f63661.png)
+![image](https://user-images.githubusercontent.com/96214489/148885321-6d66de5c-2aa4-465e-9854-6267b2434998.png)
 
 In 2018 the return was very bad, over 80% of tickers gets a negative return by the end of the year. Only the "ENPH" and "RUN" tickers gets a positive return. "ENHP" decrease his procentage in 47.6% and still gets an 81.92% return. For "RUN" was a great year, getting an increase of 78.4% by the end of 2018.
 
